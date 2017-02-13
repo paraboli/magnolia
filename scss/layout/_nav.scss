@@ -1,0 +1,29 @@
+.nav {
+	background: black;
+	color: $secondary-color;
+	padding: 5px;
+	}
+   
+nav a {
+   font-family: Raleway, sans-serif;
+   font-size: 15px;
+   color: #fff;
+   padding: 15px;
+   float: right;
+   }
+
+nav a:link {
+   color: #fff;
+   text-decoration:none;
+}
+
+nav a:visited {
+   color: #efefef;
+   text-decoration: none;
+}
+   
+nav a:hover {
+   color: #fff;
+   font-weight: bold;
+   text-decoration: none;
+}

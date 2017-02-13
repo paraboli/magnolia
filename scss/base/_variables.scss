@@ -1,0 +1,13 @@
+$primary-color: #4A4C4C; 
+$secondary-color: #d3d3d3;
+
+@media all and (min-width: 400px) {
+    .resize {
+        font-size: 14px;
+    }
+}
+@media all and (min-width: 600px) {
+    .resize {
+        font-size: 32px;
+    }
+}

@@ -1,0 +1,11 @@
+header {
+  background: $primary-color;
+  color: #fff;
+  opacity: 0.80;
+  filter: alpha(opacity=80);
+  position: fixed;
+  z-index: 1000;
+  color: $primary-color;
+  maximum-height: 80%;
+  maximum-width: 80%;
+}  
